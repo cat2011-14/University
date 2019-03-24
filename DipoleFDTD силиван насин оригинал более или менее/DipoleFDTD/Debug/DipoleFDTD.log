@@ -1,0 +1,32 @@
+﻿Сборка начата 29.04.2018 16:13:08.
+     1>Проект "C:\Users\рр\Desktop\DipoleFDTD\DipoleFDTD\DipoleFDTD.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\DipoleFDTD.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt DipoleFDTD.cpp DipoleFDTDDlg.cpp
+         DipoleFDTDDlg.cpp
+     1>c:\users\рр\desktop\dipolefdtd\dipolefdtd\dipolefdtddlg.cpp(50): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+     1>c:\users\рр\desktop\dipolefdtd\dipolefdtd\dipolefdtddlg.cpp(101): warning C4101: sigma: неиспользованная локальная переменная
+     1>c:\users\рр\desktop\dipolefdtd\dipolefdtd\dipolefdtddlg.cpp(101): warning C4101: eaf: неиспользованная локальная переменная
+     1>c:\users\рр\desktop\dipolefdtd\dipolefdtd\dipolefdtddlg.cpp(101): warning C4101: epsilon: неиспользованная локальная переменная
+     1>c:\users\рр\desktop\dipolefdtd\dipolefdtd\dipolefdtddlg.cpp(100): warning C4101: l: неиспользованная локальная переменная
+     1>c:\users\рр\desktop\dipolefdtd\dipolefdtd\dipolefdtddlg.cpp(320): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\рр\desktop\dipolefdtd\dipolefdtd\dipolefdtddlg.cpp(340): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\рр\desktop\dipolefdtd\dipolefdtd\dipolefdtddlg.cpp(354): warning C4018: <: несоответствие типов со знаком и без знака
+         Создание кода...
+         Компиляция...
+         DipoleFDTD.cpp
+         Создание кода...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\рр\Desktop\DipoleFDTD\Debug\DipoleFDTD.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"C:\Users\рр\Desktop\DipoleFDTD\Debug\DipoleFDTD.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\рр\Desktop\DipoleFDTD\Debug\DipoleFDTD.lib" /MACHINE:X86 Debug\DipoleFDTD.res
+         Debug\DipoleFDTD.obj
+         Debug\DipoleFDTDDlg.obj
+         Debug\Draw.obj
+         Debug\InitializingTheDrawingWindow.obj
+         Debug\Point.obj
+         Debug\stdafx.obj
+         Debug\Triangulation.obj
+         DipoleFDTD.vcxproj -> C:\Users\рр\Desktop\DipoleFDTD\Debug\DipoleFDTD.exe
+     1>Сборка проекта "C:\Users\рр\Desktop\DipoleFDTD\DipoleFDTD\DipoleFDTD.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:32.85
