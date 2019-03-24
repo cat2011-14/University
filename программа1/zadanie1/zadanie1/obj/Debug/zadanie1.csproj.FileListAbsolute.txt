@@ -1,0 +1,9 @@
+C:\Users\Катя\Desktop\zadanie1\zadanie1\bin\Debug\zadanie1.exe.config
+C:\Users\Катя\Desktop\zadanie1\zadanie1\bin\Debug\zadanie1.exe
+C:\Users\Катя\Desktop\zadanie1\zadanie1\bin\Debug\zadanie1.pdb
+C:\Users\Катя\Desktop\zadanie1\zadanie1\obj\Debug\zadanie1.csprojResolveAssemblyReference.cache
+C:\Users\Катя\Desktop\zadanie1\zadanie1\obj\Debug\zadanie1.Form1.resources
+C:\Users\Катя\Desktop\zadanie1\zadanie1\obj\Debug\zadanie1.Properties.Resources.resources
+C:\Users\Катя\Desktop\zadanie1\zadanie1\obj\Debug\zadanie1.csproj.GenerateResource.Cache
+C:\Users\Катя\Desktop\zadanie1\zadanie1\obj\Debug\zadanie1.exe
+C:\Users\Катя\Desktop\zadanie1\zadanie1\obj\Debug\zadanie1.pdb
