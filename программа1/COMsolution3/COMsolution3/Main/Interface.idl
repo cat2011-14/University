@@ -1,0 +1,146 @@
+import "oaidl.idl";
+import "ocidl.idl";
+
+
+
+//////////////////////////////////////////////////////////////////////////
+// “ип объекта
+
+enum ObjectType
+{
+	// целый
+	otInt,
+
+	// вещественный
+	otDouble,
+
+	// массив
+	otArray
+};
+
+//////////////////////////////////////////////////////////////////////////
+// ќбъект - значение произвольного типа (предварительное объ€вление)
+
+//struct Object;
+
+//////////////////////////////////////////////////////////////////////////
+// ObjectArray - ћассив значений Object
+
+struct ObjectArray
+{
+	// элементы массива
+	struct Object *Data;
+
+	// количество элементов массива
+	unsigned Count;
+};
+
+//////////////////////////////////////////////////////////////////////////
+// ќбъект - значение произвольного типа
+
+struct Object
+{
+	// тип объекта
+	enum ObjectType Type;
+
+	[switch_is(Type)] union
+	{
+		// значение целого типа
+		[case(otInt)]int Int;
+
+		// значение вещественного типа
+		[case(otDouble)]double Double;
+
+		// значение типа "массив"
+		[case(otArray)] struct ObjectArray  *Array;
+	} Value;
+};
+
+//////////////////////////////////////////////////////////////////////////
+// »нтерфейс коллекции
+// {37F7727A-0174-4F2B-ADE9-271B949AA229}
+// {5B9DB652-4943-4FB8-AED2-2F5933A0FF97}
+//static const GUID CLSID_CLIST =
+//{ 0x5b9db652, 0x4943, 0x4fb8, { 0xae, 0xd2, 0x2f, 0x59, 0x33, 0xa0, 0xff, 0x97 } };
+
+//static const GUID IID_ICollection =
+//{ 0x37f7727a, 0x174, 0x4f2b, { 0xad, 0xe9, 0x27, 0x1b, 0x94, 0x9a, 0xa2, 0x29 } };
+
+
+
+
+// интерфейс  ICollection
+[
+	object,
+	uuid(53278EA6-CDFE-43D4-AB4A-08A413613DC5)
+]
+interface ICollection : IUnknown
+{
+	// добавить элемент в коллекцию
+	HRESULT Add([in] struct Object obj);
+
+	// удалить элемент из коллекции
+	HRESULT Remove([in] struct Object obj);
+
+	// получить количество элементов коллекции
+	HRESULT GetCount([out] unsigned *count);
+
+	// преобразовать коллекцию в массив
+	HRESULT ToArray([out] struct ObjectArray **arr);
+};
+
+
+//////////////////////////////////////////////////////////////////////////
+// »нтерфейс перечислител€
+// {7BAAB13D-AC13-484C-A1A0-132B28136425}
+
+//static const GUID IID_IEnumerator =
+//{ 0x7baab13d, 0xac13, 0x484c, { 0xa1, 0xa0, 0x13, 0x2b, 0x28, 0x13, 0x64, 0x25 } };
+
+// интерфейс  IEnumerator
+[
+	object,
+	uuid(AD1A1128-6675-4607-8A4F-72CA47FFB36F)
+]
+interface IEnumerator : IUnknown
+{
+	// возврат в исходное состо€ние
+	HRESULT Reset();
+
+	// переход к следующему элементу
+	HRESULT  MoveNext([out] int *result);
+
+	// получить текущий элемент
+	HRESULT GetCurrent([out] struct Object *obj);
+};
+
+
+//////////////////////////////////////////////////////////////////////////
+// “ип функции создани€ экземпл€ра компонента
+
+//typedef IUnknown* (*CREATEINSTANCEPROC)();
+
+
+//////////////////////////////////////////////////////////////////////////
+// Ёкспортируема€ функци€ создани€ экземпл€ра компонента
+
+//extern "C" __declspec(dllexport) IUnknown* CreateInstance();
+//описание компонента и библиотеки типа 
+[
+	uuid(2D68DD59-31AF-43E7-A93F-0EFD5190AC0A),
+	version(1.0),
+	helpstring("My first TypeLib")
+]
+library MyComLib
+{
+	//компонент
+	[
+		uuid(16979FDD-0103-4884-912A-E252E987EA77),
+			helpstring("Class componenta")
+	]
+	coclass CList
+	{
+		[default] interface ICollection;
+		interface IEnumerator;
+	};
+}
