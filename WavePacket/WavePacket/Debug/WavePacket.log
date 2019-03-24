@@ -1,0 +1,62 @@
+﻿Сборка начата 23.12.2017 11:31:32.
+     1>Проект "C:\Users\Катя\Desktop\сдать МС\WavePacket\WavePacket\WavePacket.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\WavePacket.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt WavePacketDlg.cpp
+         WavePacketDlg.cpp
+     1>c:\users\катя\desktop\сдать мс\wavepacket\wavepacket\wavepacketdlg.cpp(152): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+     1>c:\users\катя\desktop\сдать мс\wavepacket\wavepacket\wavepacketdlg.cpp(249): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\катя\desktop\сдать мс\wavepacket\wavepacket\wavepacketdlg.cpp(269): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+     1>c:\users\катя\desktop\сдать мс\wavepacket\wavepacket\wavepacketdlg.cpp(272): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\катя\desktop\сдать мс\wavepacket\wavepacket\wavepacketdlg.cpp(278): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+     1>c:\users\катя\desktop\сдать мс\wavepacket\wavepacket\wavepacketdlg.cpp(281): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\катя\desktop\сдать мс\wavepacket\wavepacket\wavepacketdlg.cpp(295): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\катя\desktop\сдать мс\wavepacket\wavepacket\wavepacketdlg.cpp(303): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\катя\desktop\сдать мс\wavepacket\wavepacket\wavepacketdlg.cpp(329): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\катя\desktop\сдать мс\wavepacket\wavepacket\wavepacketdlg.cpp(344): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\катя\desktop\сдать мс\wavepacket\wavepacket\wavepacketdlg.cpp(388): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\катя\desktop\сдать мс\wavepacket\wavepacket\wavepacketdlg.cpp(405): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\катя\desktop\сдать мс\wavepacket\wavepacket\wavepacketdlg.cpp(422): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     1>c:\users\катя\desktop\сдать мс\wavepacket\wavepacket\wavepacketdlg.cpp(424): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\катя\desktop\сдать мс\wavepacket\wavepacket\wavepacketdlg.cpp(439): warning C4244: аргумент: преобразование "double" в "unsigned int", возможна потеря данных
+     1>c:\users\катя\desktop\сдать мс\wavepacket\wavepacket\wavepacketdlg.cpp(443): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\катя\desktop\сдать мс\wavepacket\wavepacket\wavepacketdlg.cpp(470): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\катя\desktop\сдать мс\wavepacket\wavepacket\wavepacketdlg.cpp(479): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\катя\desktop\сдать мс\wavepacket\wavepacket\wavepacketdlg.cpp(493): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     1>c:\users\катя\desktop\сдать мс\wavepacket\wavepacket\wavepacketdlg.cpp(510): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\катя\desktop\сдать мс\wavepacket\wavepacket\wavepacketdlg.cpp(515): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\катя\desktop\сдать мс\wavepacket\wavepacket\wavepacketdlg.cpp(540): warning C4805: ==: небезопасное смешение типа "BOOL" и типа "bool" в операции
+     1>c:\users\катя\desktop\сдать мс\wavepacket\wavepacket\wavepacketdlg.cpp(544): warning C4805: ==: небезопасное смешение типа "BOOL" и типа "bool" в операции
+     1>c:\users\катя\desktop\сдать мс\wavepacket\wavepacket\wavepacketdlg.cpp(548): warning C4805: ==: небезопасное смешение типа "BOOL" и типа "bool" в операции
+     1>c:\users\катя\desktop\сдать мс\wavepacket\wavepacket\wavepacketdlg.cpp(572): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>c:\users\катя\desktop\сдать мс\wavepacket\wavepacket\wavepacketdlg.cpp(573): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>c:\users\катя\desktop\сдать мс\wavepacket\wavepacket\wavepacketdlg.cpp(596): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>c:\users\катя\desktop\сдать мс\wavepacket\wavepacket\wavepacketdlg.cpp(597): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>c:\users\катя\desktop\сдать мс\wavepacket\wavepacket\wavepacketdlg.cpp(770): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\катя\desktop\сдать мс\wavepacket\wavepacket\wavepacketdlg.cpp(771): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\катя\desktop\сдать мс\wavepacket\wavepacket\wavepacketdlg.cpp(776): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\катя\desktop\сдать мс\wavepacket\wavepacket\wavepacketdlg.cpp(777): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\катя\desktop\сдать мс\wavepacket\wavepacket\wavepacketdlg.cpp(782): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\катя\desktop\сдать мс\wavepacket\wavepacket\wavepacketdlg.cpp(783): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\катя\desktop\сдать мс\wavepacket\wavepacket\wavepacketdlg.cpp(787): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\катя\desktop\сдать мс\wavepacket\wavepacket\wavepacketdlg.cpp(788): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\катя\desktop\сдать мс\wavepacket\wavepacket\wavepacketdlg.cpp(796): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\катя\desktop\сдать мс\wavepacket\wavepacket\wavepacketdlg.cpp(797): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\катя\desktop\сдать мс\wavepacket\wavepacket\wavepacketdlg.cpp(806): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\катя\desktop\сдать мс\wavepacket\wavepacket\wavepacketdlg.cpp(808): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\катя\desktop\сдать мс\wavepacket\wavepacket\wavepacketdlg.cpp(819): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     1>c:\users\катя\desktop\сдать мс\wavepacket\wavepacket\wavepacketdlg.cpp(828): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     1>c:\users\катя\desktop\сдать мс\wavepacket\wavepacket\wavepacketdlg.cpp(833): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     1>c:\users\катя\desktop\сдать мс\wavepacket\wavepacket\wavepacketdlg.cpp(834): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     1>c:\users\катя\desktop\сдать мс\wavepacket\wavepacket\wavepacketdlg.cpp(714): warning C4715: CWavePacketDlg::Sigma: значение возвращается не при всех путях выполнения
+     1>c:\users\катя\desktop\сдать мс\wavepacket\wavepacket\wavepacketdlg.cpp(736): warning C4715: CWavePacketDlg::Sigma_diff: значение возвращается не при всех путях выполнения
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Катя\Desktop\сдать МС\WavePacket\Debug\WavePacket.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"C:\Users\Катя\Desktop\сдать МС\WavePacket\Debug\WavePacket.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Катя\Desktop\сдать МС\WavePacket\Debug\WavePacket.lib" /MACHINE:X86 Debug\WavePacket.res
+         Debug\stdafx.obj
+         Debug\WavePacket.obj
+         Debug\WavePacketDlg.obj
+         WavePacket.vcxproj -> C:\Users\Катя\Desktop\сдать МС\WavePacket\Debug\WavePacket.exe
+     1>Сборка проекта "C:\Users\Катя\Desktop\сдать МС\WavePacket\WavePacket\WavePacket.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:01.29
