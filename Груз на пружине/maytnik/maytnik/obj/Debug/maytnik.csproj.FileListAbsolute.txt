@@ -1,0 +1,18 @@
+C:\Users\Катя\Desktop\maytnik\maytnik\bin\Debug\maytnik.exe.config
+C:\Users\Катя\Desktop\maytnik\maytnik\obj\Debug\maytnik.csprojResolveAssemblyReference.cache
+C:\Users\Катя\Desktop\maytnik\maytnik\obj\Debug\maytnik.Form1.resources
+C:\Users\Катя\Desktop\maytnik\maytnik\obj\Debug\maytnik.Properties.Resources.resources
+C:\Users\Катя\Desktop\maytnik\maytnik\obj\Debug\maytnik.csproj.GenerateResource.Cache
+C:\Users\Катя\Desktop\maytnik\maytnik\bin\Debug\maytnik.exe
+C:\Users\Катя\Desktop\maytnik\maytnik\bin\Debug\maytnik.pdb
+C:\Users\Катя\Desktop\maytnik\maytnik\obj\Debug\maytnik.exe
+C:\Users\Катя\Desktop\maytnik\maytnik\obj\Debug\maytnik.pdb
+C:\Users\Катя\Desktop\сдать МС\Груз на пружине\maytnik\maytnik\bin\Debug\maytnik.exe.config
+C:\Users\Катя\Desktop\сдать МС\Груз на пружине\maytnik\maytnik\obj\Debug\maytnik.exe
+C:\Users\Катя\Desktop\сдать МС\Груз на пружине\maytnik\maytnik\obj\Debug\maytnik.pdb
+C:\Users\Катя\Desktop\сдать МС\Груз на пружине\maytnik\maytnik\bin\Debug\maytnik.exe
+C:\Users\Катя\Desktop\сдать МС\Груз на пружине\maytnik\maytnik\bin\Debug\maytnik.pdb
+C:\Users\Катя\Desktop\сдать МС\Груз на пружине\maytnik\maytnik\obj\Debug\maytnik.csprojResolveAssemblyReference.cache
+C:\Users\Катя\Desktop\сдать МС\Груз на пружине\maytnik\maytnik\obj\Debug\maytnik.Form1.resources
+C:\Users\Катя\Desktop\сдать МС\Груз на пружине\maytnik\maytnik\obj\Debug\maytnik.Properties.Resources.resources
+C:\Users\Катя\Desktop\сдать МС\Груз на пружине\maytnik\maytnik\obj\Debug\maytnik.csproj.GenerateResource.Cache

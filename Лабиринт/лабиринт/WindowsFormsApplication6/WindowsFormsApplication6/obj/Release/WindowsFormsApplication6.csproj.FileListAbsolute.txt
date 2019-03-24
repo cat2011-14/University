@@ -1,0 +1,9 @@
+C:\Users\Катя\Desktop\сдать МС\Лабиринт\лабиринт\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\WindowsFormsApplication6.exe.config
+C:\Users\Катя\Desktop\сдать МС\Лабиринт\лабиринт\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\WindowsFormsApplication6.exe
+C:\Users\Катя\Desktop\сдать МС\Лабиринт\лабиринт\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\WindowsFormsApplication6.pdb
+C:\Users\Катя\Desktop\сдать МС\Лабиринт\лабиринт\WindowsFormsApplication6\WindowsFormsApplication6\obj\Release\WindowsFormsApplication6.csprojResolveAssemblyReference.cache
+C:\Users\Катя\Desktop\сдать МС\Лабиринт\лабиринт\WindowsFormsApplication6\WindowsFormsApplication6\obj\Release\WindowsFormsApplication6.Form1.resources
+C:\Users\Катя\Desktop\сдать МС\Лабиринт\лабиринт\WindowsFormsApplication6\WindowsFormsApplication6\obj\Release\WindowsFormsApplication6.Properties.Resources.resources
+C:\Users\Катя\Desktop\сдать МС\Лабиринт\лабиринт\WindowsFormsApplication6\WindowsFormsApplication6\obj\Release\WindowsFormsApplication6.csproj.GenerateResource.Cache
+C:\Users\Катя\Desktop\сдать МС\Лабиринт\лабиринт\WindowsFormsApplication6\WindowsFormsApplication6\obj\Release\WindowsFormsApplication6.exe
+C:\Users\Катя\Desktop\сдать МС\Лабиринт\лабиринт\WindowsFormsApplication6\WindowsFormsApplication6\obj\Release\WindowsFormsApplication6.pdb
