@@ -1,0 +1,20 @@
+C:\Users\Катя\Desktop\mc\Triangulator\DemoApp\bin\Triangulator_Demo.exe
+C:\Users\Катя\Desktop\mc\Triangulator\DemoApp\bin\Triangulator_Demo.pdb
+C:\Users\Катя\Desktop\mc\Triangulator\DemoApp\bin\Triangulator.dll
+C:\Users\Катя\Desktop\mc\Triangulator\DemoApp\bin\Triangulator.pdb
+C:\Users\Катя\Desktop\mc\Triangulator\DemoApp\bin\Triangulator.xml
+C:\Users\Катя\Desktop\mc\Triangulator\DemoApp\obj\Debug\Triangulate_Demo.csprojResolveAssemblyReference.cache
+C:\Users\Катя\Desktop\mc\Triangulator\DemoApp\obj\Debug\Triangulator_Demo.Form1.resources
+C:\Users\Катя\Desktop\mc\Triangulator\DemoApp\obj\Debug\Triangulate_Demo.csproj.GenerateResource.Cache
+C:\Users\Катя\Desktop\mc\Triangulator\DemoApp\obj\Debug\Triangulator_Demo.exe
+C:\Users\Катя\Desktop\mc\Triangulator\DemoApp\obj\Debug\Triangulator_Demo.pdb
+C:\Users\Катя\Desktop\Моделирование систем\программа1\Triangulator\DemoApp\obj\Debug\Triangulator_Demo.exe
+C:\Users\Катя\Desktop\Моделирование систем\программа1\Triangulator\DemoApp\obj\Debug\Triangulator_Demo.pdb
+C:\Users\Катя\Desktop\Моделирование систем\программа1\Triangulator\DemoApp\bin\Triangulator_Demo.exe
+C:\Users\Катя\Desktop\Моделирование систем\программа1\Triangulator\DemoApp\bin\Triangulator_Demo.pdb
+C:\Users\Катя\Desktop\Моделирование систем\программа1\Triangulator\DemoApp\bin\Triangulator.dll
+C:\Users\Катя\Desktop\Моделирование систем\программа1\Triangulator\DemoApp\bin\Triangulator.pdb
+C:\Users\Катя\Desktop\Моделирование систем\программа1\Triangulator\DemoApp\bin\Triangulator.xml
+C:\Users\Катя\Desktop\Моделирование систем\программа1\Triangulator\DemoApp\obj\Debug\Triangulate_Demo.csprojResolveAssemblyReference.cache
+C:\Users\Катя\Desktop\Моделирование систем\программа1\Triangulator\DemoApp\obj\Debug\Triangulator_Demo.Form1.resources
+C:\Users\Катя\Desktop\Моделирование систем\программа1\Triangulator\DemoApp\obj\Debug\Triangulate_Demo.csproj.GenerateResource.Cache

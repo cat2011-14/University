@@ -1,0 +1,5 @@
+C:\Users\Катя\Desktop\mc\Triangulator\Triangulator\bin\Triangulator.dll
+C:\Users\Катя\Desktop\mc\Triangulator\Triangulator\bin\Triangulator.pdb
+C:\Users\Катя\Desktop\mc\Triangulator\Triangulator\obj\Debug\Triangulator.csprojResolveAssemblyReference.cache
+C:\Users\Катя\Desktop\mc\Triangulator\Triangulator\obj\Debug\Triangulator.dll
+C:\Users\Катя\Desktop\mc\Triangulator\Triangulator\obj\Debug\Triangulator.pdb
